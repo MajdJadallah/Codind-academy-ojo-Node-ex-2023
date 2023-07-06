@@ -1,0 +1,1 @@
+ A file named "the second.txt" with the text "Hello, World!
